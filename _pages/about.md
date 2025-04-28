@@ -27,6 +27,8 @@ Getting started
 Awards and Honors
 ======
 - NSF Graduate Research Fellowship Program (NSF GRFP)
+- Richard K. Whitehead Jr. Memorial Award
+- Duke Centennial Graduate Professional Fellowship
 
 Site-wide configuration
 ------
