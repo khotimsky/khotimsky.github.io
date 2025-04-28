@@ -8,11 +8,4 @@ date: 2023-01-15
 location: "Atlanta, GA"
 ---
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Held semiweekly tutoring sessions open to students across 3 course sections, reviewing concepts including kinematics, rotational motion, intertia, impulse momentum theory, etc while collaborating with course instructors to personalize sessions to course content and pacing. 
