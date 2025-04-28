@@ -23,9 +23,9 @@ repository               : "khotimsky/khotimsky.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Alexey Khotimsky"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student | NSF GRFP | NSF TAST-NRT"
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
