@@ -25,13 +25,13 @@ Experience
     
 #
 **AiM Medical Robotics** | Worcester, MA  
-**Robotics Engineering Intern**
+**Robotics Engineering Intern** | May 2024-present
   * 
   *
   * Supervisor: Dr. Gregory Fischer
 #
 **Vicarious Surgical** | Waltham, MA  
-**R&D Mechanical Engineering Intern**
+**R&D Mechanical Engineering Intern** | January 2023-June 2023
 
 
 Skills
