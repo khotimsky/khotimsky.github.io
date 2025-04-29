@@ -24,12 +24,17 @@ Experience
   * Supervisor: The Users
     
 ---
+
 **AiM Medical Robotics**
 **Robotics Engineering Intern** | 
+
 ---
+
 **Vicarious Surgical**
 **R&D Mechanical Engineering Intern**
+
 ---
+
 Skills
 ======
 * Skill 1
