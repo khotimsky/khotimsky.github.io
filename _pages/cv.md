@@ -25,7 +25,7 @@ Experience
     
 ---
 
-# **AiM Medical Robotics** | Worcester, MA
+### **AiM Medical Robotics** | Worcester, MA
 ---
 
 **Vicarious Surgical**
