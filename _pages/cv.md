@@ -24,9 +24,10 @@ Experience
   * Supervisor: The Users
     
 
-### **AiM Medical Robotics** | Worcester, MA
+**AiM Medical Robotics** | Worcester, MA
+**Robotics Engineering Intern**
 
-**Vicarious Surgical**
+**Vicarious Surgical** | Waltham, MA
 **R&D Mechanical Engineering Intern**
 
 
