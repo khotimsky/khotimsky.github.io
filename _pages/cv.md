@@ -17,7 +17,7 @@ Education
 Experience
 ======
 
-**Biorobotics and Human Modeling Lab**
+**Biorobotics and Human Modeling Lab**  
 **Undergraduate Researcher** | January 2022-May 2025
   * GitHub University
   * Duties includes: Updates and improvements to template
