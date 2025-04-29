@@ -14,7 +14,7 @@ Education
 * Ph.D in Mechanical Engineering and Materials Science, Duke University, 2030 (expected)
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, 2025
 
-Research
+Experience
 ======
 **Biorobotics and Human Modeling Lab**
 **Undergraduate Researcher** | January 2022-May 2025
