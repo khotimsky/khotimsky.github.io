@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering and Materials Science, Duke University, 2030 (expected)
+* Ph.D. in Mechanical Engineering and Materials Science, Duke University, 2030 (expected)
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, 2025
 
 Experience
@@ -24,10 +24,10 @@ Experience
   * Supervisor: The Users
     
 #
-**AiM Medical Robotics** | Worcester, MA \
+**AiM Medical Robotics** | Worcester, MA  
 **Robotics Engineering Intern**
 #
-**Vicarious Surgical** | Waltham, MA \
+**Vicarious Surgical** | Waltham, MA  
 **R&D Mechanical Engineering Intern**
 
 
