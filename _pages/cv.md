@@ -23,10 +23,10 @@ Experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
     
-
-**AiM Medical Robotics** | Worcester, MA
+***
+**AiM Medical Robotics** | Worcester, MA 
 **Robotics Engineering Intern**
-
+***
 **Vicarious Surgical** | Waltham, MA
 **R&D Mechanical Engineering Intern**
 
