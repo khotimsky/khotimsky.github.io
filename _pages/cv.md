@@ -14,22 +14,18 @@ Education
 * Ph.D in Mechanical Engineering and Materials Science, Duke University, 2030 (expected)
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, 2025
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
+**Biorobotics and Human Modeling Lab**
+**Undergraduate Researcher** | January 2022-May 2025
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**AiM Medical Robotics**
+**Robotics Engineering Intern** | 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Vicarious Surgical**
   
 Skills
 ======
