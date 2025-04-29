@@ -19,13 +19,16 @@ Experience
 
 **Biorobotics and Human Modeling Lab**  
 **Undergraduate Researcher** | January 2022-May 2025
-  * GitHub University
+  * Georgia Tech
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Advisor: Dr. Jun Ueda
     
 #
 **AiM Medical Robotics** | Worcester, MA  
 **Robotics Engineering Intern**
+  * 
+  *
+  * Supervisor: Dr. Gregory Fischer
 #
 **Vicarious Surgical** | Waltham, MA  
 **R&D Mechanical Engineering Intern**
