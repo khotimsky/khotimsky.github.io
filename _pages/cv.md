@@ -25,9 +25,7 @@ Experience
     
 ---
 
-**AiM Medical Robotics**
-**Robotics Engineering Intern** | 
-
+# **AiM Medical Robotics** | Worcester, MA
 ---
 
 **Vicarious Surgical**
