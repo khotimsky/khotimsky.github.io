@@ -1,1 +1,11 @@
+.theme-dark {
+  display: none;
+}
 
+html[data-theme="dark"] .theme-dark {
+  display: inline;
+}
+
+html[data-theme="dark"] .theme-light {
+  display: none;
+}
