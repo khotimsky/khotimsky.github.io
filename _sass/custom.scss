@@ -1,11 +1,14 @@
+/* Hide the dark version by default */
 .theme-dark {
   display: none;
 }
 
+/* Show the dark version only when html has data-theme="dark" */
 html[data-theme="dark"] .theme-dark {
   display: inline;
 }
 
+/* And hide the light version in dark mode */
 html[data-theme="dark"] .theme-light {
   display: none;
 }
