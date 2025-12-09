@@ -1,5 +1,5 @@
 ---
-title: "Robotic Pouring Mechanism with Accurate Mass Distributio (*ME 555: Intro to Robotics* Final Project, Fall 2025)"
+title: "Robotic Pouring Mechanism with Accurate Mass Distribution\ (*ME 555: Intro to Robotics* Final Project, Fall 2025)"
 excerpt: "Robotic  1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
