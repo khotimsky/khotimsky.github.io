@@ -9,5 +9,7 @@ Collaborated with 4 other mechanical engineering students to simulate. A YOLO pi
 
 My contributions included the design of the scale and code to integrate it into the robot pipeline. 
 
+![alt text](/images/arduino_wiring.png "Arduino Schematic")
+
 See team write-up and sample research paper!
 
